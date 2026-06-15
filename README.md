@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Damir Satimov 👋</h1>
+<h1 align="center">I'm Satimov Damir</h1>
 
 <h3 align="center">
   Front-End Developer | Software Engineering Student | Full-Stack Enthusiast
@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Front-End Developer** from **Astana, Kazakhstan**, currently studying **Software Engineering at AITU**.
 
@@ -29,7 +29,7 @@ I also have experience working with back-end technologies such as **Django, Expr
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Front-End
 
